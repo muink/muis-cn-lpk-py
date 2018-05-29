@@ -1,2 +1,6 @@
 Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 :-----------------------------------------------|:---------:|----------------------:|-----------|------
+[Pyanodons Industry][]							|1.0.9		|					100%|1.0.9		|none
+
+
+[Pyanodons Industry]: https://mods.factorio.com/mod/pyindustry
