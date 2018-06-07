@@ -1,2 +1,8 @@
 Mod name										|ZH version	|Completion rate		|Verified	|Pushed
 :-----------------------------------------------|:---------:|----------------------:|-----------|------
+[Pyanodons Coal Processing][]					|1.0.9		|					088%|false		|none
+[Pyanodons Industry][]							|1.0.9		|					100%|1.0.9		|none
+
+
+[Pyanodons Coal Processing]: https://mods.factorio.com/mod/pycoalprocessing
+[Pyanodons Industry]: https://mods.factorio.com/mod/pyindustry
